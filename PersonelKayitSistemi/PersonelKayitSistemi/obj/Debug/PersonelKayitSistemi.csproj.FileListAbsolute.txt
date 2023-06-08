@@ -1,0 +1,14 @@
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.exe.config
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.exe
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.pdb
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.Form1.resources
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.exe
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.pdb
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.frmistatistik.resources
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.frmgrafikler.resources
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.frmadmin.resources
